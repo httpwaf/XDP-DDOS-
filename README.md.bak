@@ -61,9 +61,8 @@ $ ./ebpf-xdp stop
 
 ## Contact Us
 * 微信号httpwaf
-Before moving on, please consider giving us a GitHub star ⭐️. Thank you!
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
-
+Before moving on, please consider giving us a GitHub star ⭐️. Thank you!
 ## License
 This project is licensed under the terms of the
 [MIT license](/LICENSE).
