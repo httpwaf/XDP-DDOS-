@@ -59,11 +59,8 @@ $ ./ebpf-xdp stop
 <a href="https://github.com/ebpf-security/ebpf-security.github.io/blob/main/img/1.png"><img height="500" width="820" src="https://github.com/ebpf-security/ebpf-security.github.io/blob/main/img/1.png"></img></a>
 &nbsp;
 
-#### 六、源码和技术白皮书部署请加微信号httpwaf
-
-
 ## Contact Us
-* Mail to `ebpf-sec@hotmail.com`
+* 微信号httpwaf
 Before moving on, please consider giving us a GitHub star ⭐️. Thank you!
 ![](https://gitee.com/httpwaf/httpwaf/raw/master/img/wechat.png)
 
